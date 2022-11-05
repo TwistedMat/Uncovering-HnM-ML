@@ -2,6 +2,8 @@
 # Personalized Product Predictions in the Fast-Fashion Industry
 ## Can we use H&amp;M's data to understand users' latent purchasing patterns and preferences and predict every user's next purchases?
 
+### :star: :bar_chart: Click here For the detailed [EDA Project](https://github.com/TwistedMat/Uncovering-HnM-EDA) on the same H&amp;M's dataset! 
+ 
 ## The WHY?
   * H&M spent just under ***$100 million on advertising*** in the past year with close to ***$25 million on just digital ads***.
   * Even though online sales have increased since covid, this digital marketing spend was not able to be translated into sales with a ***21% drop in YoY sales*** in H&M’s first quarter of 2021.
